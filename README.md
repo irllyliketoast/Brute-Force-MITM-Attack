@@ -1,6 +1,6 @@
 # Brute Force MITM Attack
 
-## Objective
+## About
 I co-authored the article "**Advanced Persistent Threats and WLAN Security: An In-depth Exploration of Attack Surfaces and Mitigation Techniques**" alongside Dr. Hosam Alamleh, Dr. Shadman Sakib Arnob, and Dr. Ali Abdullah S. AlQahtan. My contributions focused on analyzing the attack surfaces of WLANs, where I conducted tests on man-in-the-middle (MITM) and dictionary-based attacks on Wi-Fi networks, including KRACK and Downgrade Attacks.
 
 ## Abstract
